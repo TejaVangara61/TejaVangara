@@ -108,6 +108,12 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### Threat Intelligence
+![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white)
+![AbuseIPDB](https://img.shields.io/badge/AbuseIPDB-EF3B2D?style=flat-square&logoColor=white)
+![urlscan.io](https://img.shields.io/badge/urlscan.io-1E90FF?style=flat-square&logoColor=white)
+![MXToolbox](https://img.shields.io/badge/MXToolbox-F97316?style=flat-square&logoColor=white)
+
 **Frameworks & Methodologies**
 
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C00000?style=for-the-badge&logoColor=white)
