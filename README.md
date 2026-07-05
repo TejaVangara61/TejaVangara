@@ -54,6 +54,41 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 <br/>
 
 ---
+## ⚙️ Tech Stack
+
+<br/>
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+**Security Tooling**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+**Frameworks & Data**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frameworks & Methodologies**
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-C00000?style=for-the-badge&logoColor=white)
+![Detection Engineering](https://img.shields.io/badge/Detection%20Engineering-1D9E75?style=for-the-badge&labelColor=0d1117)
+![Incident Response](https://img.shields.io/badge/Incident%20Response-EF9F27?style=for-the-badge&labelColor=0d1117)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-0F6E56?style=for-the-badge&labelColor=0d1117)
+
+<br/>
+
+---
+
+<br/>
+
 
 ## 🛠️ Skills
 
