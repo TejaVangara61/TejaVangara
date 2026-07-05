@@ -1,6 +1,24 @@
 <p align="center">
   <img src="./banner.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/teja-vangara-17681831a/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge">
+
+</a>
+
+<a href="https://tryhackme.com/p/VangaraTeja">
+<img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge">
+
+</a>
+
+<a href="mailto:tejavangara075@gmail.com">
+<img src="https://img.shields.io/badge/Email-orange?style=for-the-badge">
+
+</a>
+
+</p>
 # Hi 👋 I'm Teja Venkata Ramakrishna
 
 ## SOC Analyst | Threat Hunter | Digital Forensics
