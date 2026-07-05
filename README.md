@@ -21,13 +21,13 @@
 </p>
 Hi 👋 I'm Teja Venkata Ramakrishna
 
-## SOC Analyst | Threat Hunter | Digital Forensics | Blue Team
+SOC Analyst | Threat Hunter | Digital Forensics | Blue Team
 
 Cybersecurity enthusiast passionate about Security Operations, Incident Response, Threat Hunting, and Digital Forensics.
 
 ---
 
-## 🚀 About Me
+🚀 About Me
 
 - 🔭 Currently building cybersecurity projects
 - 🌱 Learning Detection Engineering
@@ -36,7 +36,8 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 - 📍 India
 
 ---
-## 🏆 My Investigations
+
+🏆 My Investigations
 
 <details>
 <summary><strong>📊 Splunk Investigation – 17,126 Failed Logins, Real Attackers</strong></summary>
@@ -62,7 +63,8 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 **Repo:** [SOC-Incident-Investigation-Splunk](https://github.com/rohithbaggu56-dot/SOC-Incident-Investigation-Splunk)
 
 </details>
-## 🛡️ Core Competencies
+
+🛡️ Core Competencies
 
 <br/>
 
@@ -80,7 +82,7 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 <br/>
 
 ---
-## ⚙️ Tech Stack
+⚙️ Tech Stack
 
 <br/>
 
@@ -118,14 +120,15 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 ---
 
 <br/>
-## 📜 Certifications
+
+📜 Certifications
 
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Microsoft Security](https://img.shields.io/badge/Microsoft_Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe_SOC_Level_1-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 ![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-EA3E23?style=flat-square&logo=comptia&logoColor=white)
 
-### 📚 Current Learning & Practical Labs
+📚 Current Learning & Practical Labs
 
 **TryHackMe**  
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2E2E2E?style=flat&logo=tryhackme)  
@@ -140,13 +143,13 @@ Engaged in blue‑team simulations and theory learning to strengthen SOC workflo
 ![Forage](https://img.shields.io/badge/Forage-SOC%20Simulation%20Labs-00BFFF?style=flat&logo=forage)  
 Completed seven SOC analyst simulation internships (Commonwealth Bank and others) — focused on alert analysis, triage, and reporting.
 
-### 📂 Special Repositories
+📂 Special Repositories
 [SOC-Workflow-Brute-Force-Splunk](https://github.com/TejaVangara61/Bruteforce-Splunk) – Alert to closure workflow
 [AIRIA-AI-Log-Triage-Lab](https://github.com/TejaVangara61/AI-SOC-alert-analysis) – AI-assisted SOC triage experimentation
 
 
 
-### 💡 What Matters in My Repositories
+💡 What Matters in My Repositories
 
 **I Don’t Just Run Labs – I Investigate Like an Analyst**  
 - Each repository answers the question: “What happened?” 
@@ -156,7 +159,7 @@ Completed seven SOC analyst simulation internships (Commonwealth Bank and 
 - Labs are real – VMs freeze, configs break, rules need tuning.    
 - Continuous improvement is how true SOC analysts grow.
 
-## 🤝 Open To
+🤝 Open To
 
 <br/>
 
