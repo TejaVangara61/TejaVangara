@@ -121,3 +121,18 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 - Bash
 
 ---
+## 🤝 Open To
+
+<br/>
+
+<div align="center">
+
+![Internships](https://img.shields.io/badge/✓%20SOC%20Analyst%20Internships-1D9E75?style=for-the-badge&labelColor=0d1117)
+![Blue Team Roles](https://img.shields.io/badge/✓%20Blue%20Team%20Roles-1D9E75?style=for-the-badge&labelColor=0d1117)
+![Detection Engineering](https://img.shields.io/badge/✓%20Detection%20Engineering-1D9E75?style=for-the-badge&labelColor=0d1117)
+![Security Research](https://img.shields.io/badge/✓%20Security%20Research-1D9E75?style=for-the-badge&labelColor=0d1117)
+![Threat Intel](https://img.shields.io/badge/✓%20Threat%20Intelligence-1D9E75?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
