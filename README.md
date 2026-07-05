@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshot(157).png" width="100%">
+  <img src="Pictures/SCreenshot(157).png" width="100%">
 </p>
 # Hi 👋 I'm Teja Venkata Ramakrishna
 
