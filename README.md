@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="/Screenshot(157).png" width="100%">
+</p>
 # Hi 👋 I'm Teja Venkata Ramakrishna
 
 ## SOC Analyst | Threat Hunter | Digital Forensics
