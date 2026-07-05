@@ -19,9 +19,9 @@
 </a>
 
 </p>
-# Hi 👋 I'm Teja Venkata Ramakrishna
+Hi 👋 I'm Teja Venkata Ramakrishna
 
-## SOC Analyst | Threat Hunter | Digital Forensics
+## SOC Analyst | Threat Hunter | Digital Forensics | Blue Team
 
 Cybersecurity enthusiast passionate about Security Operations, Incident Response, Threat Hunting, and Digital Forensics.
 
@@ -34,6 +34,24 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 - 💻 Python & Bash Automation
 - 🛡️ Blue Team Enthusiast
 - 📍 India
+
+---
+## 🛡️ Core Competencies
+
+<br/>
+
+| Domain | Skills |
+|--------|--------|
+| **Security Operations** | Alert triage · Incident workflow · SOC tooling · Analyst dashboards |
+| **Detection Engineering** | Sigma rules · Detection logic · Alert tuning · Rule correlation |
+| **SIEM & Log Analysis** | Splunk · Log ingestion · Pipeline design · Event correlation |
+| **Windows Telemetry** | Sysmon · Windows Event Logs · Event ID mapping · WEF |
+| **Threat Hunting** | Hypothesis-driven hunting · IOC analysis · Behavioral detection |
+| **Incident Response** | Dossier generation · Timeline reconstruction · Triage workflows |
+| **Adversary Simulation** | Attack emulation · Red-vs-blue · MITRE ATT&CK mapping |
+| **Automation & Tooling** | Python · PowerShell · Bash · Security scripting |
+
+<br/>
 
 ---
 
