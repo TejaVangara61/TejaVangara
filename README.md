@@ -36,6 +36,32 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 - 📍 India
 
 ---
+## 🏆 My Investigations
+
+<details>
+<summary><strong>📊 Splunk Investigation – 17,126 Failed Logins, Real Attackers</strong></summary>
+
+**What:** Monitored SSH authentication logs over 21 days. Real automated scanning tools (not simulated) hit the system from IPs across Argentina, China, Philippines, India, Japan, South Korea.
+
+**By the Numbers:**
+- **17,126 total failed login attempts** analyzed
+- **2 malicious IPs validated** via threat intelligence
+- **230 successful logins investigated** for post-compromise indicators
+- **Custom detection dashboard** built to visualize attack patterns in real-time
+
+**What I Did:**
+- Wrote SPL queries to detect password spraying patterns (multiple accounts, single IP)
+- Correlated failed attempts with successful logins to identify breaches
+- Validated suspicious IPs against AbuseIPDB and VirusTotal
+- Built a dashboard showing top attacking sources, failed login trends, and targeted accounts
+- Investigated post-compromise activity – found none, system was defended
+
+**Tools:** Splunk Enterprise | SPL | Windows Security Event Logs | VirusTotal | AbuseIPDB  
+**MITRE ATT&CK:** T1110 (Brute Force), T1110.003 (Password Spraying), T1078 (Valid Accounts)
+
+**Repo:** [SOC-Incident-Investigation-Splunk](https://github.com/rohithbaggu56-dot/SOC-Incident-Investigation-Splunk)
+
+</details>
 ## 🛡️ Core Competencies
 
 <br/>
@@ -61,7 +87,6 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **Security Tooling**
@@ -93,7 +118,44 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 ---
 
 <br/>
----
+## 📜 Certifications
+
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Security](https://img.shields.io/badge/Microsoft_Security-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe_SOC_Level_1-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+![CompTIA Security+ (In Progress)](https://img.shields.io/badge/CompTIA_Security%2B-In_Progress-EA3E23?style=flat-square&logo=comptia&logoColor=white)
+
+### 📚 Current Learning & Practical Labs
+
+**TryHackMe**  
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-2E2E2E?style=flat&logo=tryhackme)  
+Completed the SOC Level 1 path – hands‑on modules covering Wireshark, Splunk, Elastic, EDR tools, and incident response.  
+Currently exploring advanced rooms focused on detection engineering, log analysis, and threat hunting.
+
+**Let's Defend**  
+![LetsDefend](https://img.shields.io/badge/LetsDefend-Blue%20Team%20Labs-1E90FF?style=flat&logo=letsdefend)  
+Engaged in blue‑team simulations and theory learning to strengthen SOC workflow understanding and incident triage skills.
+
+**Forage Virtual Internships**  
+![Forage](https://img.shields.io/badge/Forage-SOC%20Simulation%20Labs-00BFFF?style=flat&logo=forage)  
+Completed seven SOC analyst simulation internships (Commonwealth Bank and others) — focused on alert analysis, triage, and reporting.
+
+### 📂 Special Repositories
+[SOC-Workflow-Brute-Force-Splunk](https://github.com/TejaVangara61/Bruteforce-Splunk) – Alert to closure workflow
+[AIRIA-AI-Log-Triage-Lab](https://github.com/TejaVangara61/AI-SOC-alert-analysis) – AI-assisted SOC triage experimentation
+
+
+
+### 💡 What Matters in My Repositories
+
+**I Don’t Just Run Labs – I Investigate Like an Analyst**  
+- Each repository answers the question: “What happened?” 
+- Findings are validated using logs, threat intelligence, and multiple sources.
+    
+**I Learn From Mistakes**  
+- Labs are real – VMs freeze, configs break, rules need tuning.    
+- Continuous improvement is how true SOC analysts grow.
+
 ## 🤝 Open To
 
 <br/>
@@ -109,3 +171,11 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 </div>
 
 <br/>
+
+## 📬 Get in Touch
+
+**Actively exploring opportunities as a SOC Analyst L1 / Security Analyst**  
+Focused on entry‑level roles where I can apply hands‑on detection, investigation, and threat‑hunting skills.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/teja-vangara-17681831a/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/VangaraTeja)
