@@ -71,6 +71,11 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 ![Windows Event Logs](https://img.shields.io/badge/Windows%20Event%20Logs-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
+### Endpoint & Logs
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=flat-square&logoColor=white)
+![Windows Logs](https://img.shields.io/badge/Windows_Logs-0078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux Logs](https://img.shields.io/badge/Linux_Logs-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 **Frameworks & Data**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -88,38 +93,6 @@ Cybersecurity enthusiast passionate about Security Operations, Incident Response
 ---
 
 <br/>
-
-
-## 🛠️ Skills
-
-### SIEM
-- Splunk
-- ELK Stack
-
-### Security
-- Threat Hunting
-- Incident Response
-- Digital Forensics
-- MITRE ATT&CK
-- IOC Analysis
-- OSINT
-
-### Networking
-- TCP/IP
-- DNS
-- HTTP
-- SMTP
-
-### Tools
-- Wireshark
-- Nmap
-- Nessus
-- Snort
-
-### Languages
-- Python
-- Bash
-
 ---
 ## 🤝 Open To
 
